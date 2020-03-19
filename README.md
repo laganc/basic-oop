@@ -1,1 +1,1 @@
-# hello-world
+# Some basic object-oriented programming.
